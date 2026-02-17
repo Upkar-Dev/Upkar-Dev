@@ -38,7 +38,7 @@ I focus on understanding concepts deeply and applying them through practical imp
 
 <p align="left">
 
-I am a BCA student deeply focused on building strong mathematical and algorithmic foundations for Artificial Intelligence.  
+I am deeply focused on building strong mathematical and algorithmic foundations for Artificial Intelligence.  
 My approach combines structured learning with applied experimentation.
 
 </p>
