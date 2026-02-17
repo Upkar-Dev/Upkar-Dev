@@ -61,13 +61,6 @@ My approach combines structured learning with applied experimentation.
 <img src="https://skillicons.dev/icons?i=java,c,javascript,css,html" />
 </p>
 
-### AI & Data
-
-<p>
-
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-
-</p>
 
 ### Infrastructure
 
